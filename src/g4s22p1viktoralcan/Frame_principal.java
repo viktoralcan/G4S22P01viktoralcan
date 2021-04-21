@@ -226,7 +226,7 @@ public class Frame_principal extends javax.swing.JFrame {
         getContentPane().add(jPanel1);
         jPanel1.setBounds(0, 0, 960, 529);
 
-        setBounds(0, 0, 984, 576);
+        setBounds(0, 0, 758, 521);
     }// </editor-fold>//GEN-END:initComponents
 
     private void Txt_nombreActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Txt_nombreActionPerformed
